@@ -1,0 +1,230 @@
+Fecha,Actividad,Horario,Rango_de_edad,Duracion,Centro,Direccion,Distrito,Telefono
+2023-10-31,Gimnasia acuática,"19:30, 20:15",De 15 a 64 años,45 minutos,Alfredo Goyeneche,"Calle del Arroyo de Pozuelo, 99, 28023, Madrid",,
+2023-10-31,Combinada sala-piscina,19:15,De 15 a 64 años,60 minutos,Aluche,"Avenida de las Águilas, 14, 28044, Madrid",,
+2023-10-31,Correr por Madrid,19:30,De 15 a 64 años,90 minutos,Aluche,"Avenida de las Águilas, 14, 28044, Madrid",,
+2023-10-31,Cubo Gym Cross Training/Funcional,"18:15, 19:15",De 15 a 64 años,45 minutos,Aluche,"Avenida de las Águilas, 14, 28044, Madrid",,
+2023-10-31,Cuerpo mente,16:45,De 15 a 64 años,60 minutos,Aluche,"Avenida de las Águilas, 14, 28044, Madrid",,
+2023-10-31,Fitness,19:15,De 15 a 64 años,60 minutos,Aluche,"Avenida de las Águilas, 14, 28044, Madrid",,
+2023-10-31,Marcha nórdica por Madrid,19:00,De 15 a 64 años,90 minutos,Aluche,"Avenida de las Águilas, 14, 28044, Madrid",,
+2023-10-31,Pilates MesD,18:00,De 15 a 64 años,45 minutos,Aluche,"Avenida de las Águilas, 14, 28044, Madrid",,
+2023-10-31,Pilates Mesd,20:15,De 15 a 64 años,45 minutos,Aluche,"Avenida de las Águilas, 14, 28044, Madrid",,
+2023-10-31,Prueba de nivel natación,"17:00, 20:15",A partir de 6 años,5 minutos,Aluche,"Avenida de las Águilas, 14, 28044, Madrid",,
+2023-10-31,Fuerza GAP,20:00,,60 minutos,Ángel Nieto,"Calle del Payaso Fofó, 7, 28018, Madrid",,
+2023-10-31,Pilates,"17:00, 20:00",,60 minutos,Ángel Nieto,"Calle del Payaso Fofó, 7, 28018, Madrid",,
+2023-10-31,Ciclo sala,"17:45, 19:10, 20:30",De 15 a 64 años,45 minutos,Antonio Díaz Miguel,"Calle Joaquín Dicenta, 1, 28029, Madrid",Tetuán,913145437.0
+2023-10-31,Entrenamiento funcional,"16:30, 19:20",De 15 a 64 años,60 minutos,Antonio Díaz Miguel,"Calle Joaquín Dicenta, 1, 28029, Madrid",Tetuán,913145437.0
+2023-10-31,Entrenamiento por intervalos,"17:40, 18:50",De 15 a 64 años,30 minutos,Antonio Díaz Miguel,"Calle Joaquín Dicenta, 1, 28029, Madrid",Tetuán,913145437.0
+2023-10-31,Fitness,18:05,De 15 a 64 años,60 minutos,Antonio Díaz Miguel,"Calle Joaquín Dicenta, 1, 28029, Madrid",Tetuán,913145437.0
+2023-10-31,Fitness B. Pump,20:45,De 15 a 64 años,60 minutos,Antonio Díaz Miguel,"Calle Joaquín Dicenta, 1, 28029, Madrid",Tetuán,913145437.0
+2023-10-31,Fitness B.Combat,19:10,De 15 a 64 años,60 minutos,Antonio Díaz Miguel,"Calle Joaquín Dicenta, 1, 28029, Madrid",Tetuán,913145437.0
+2023-10-31,Fuerza CORE,18:20,De 15 a 64 años,30 minutos,Antonio Díaz Miguel,"Calle Joaquín Dicenta, 1, 28029, Madrid",Tetuán,913145437.0
+2023-10-31,Fuerza GAP,20:45,De 15 a 64 años,60 minutos,Antonio Díaz Miguel,"Calle Joaquín Dicenta, 1, 28029, Madrid",Tetuán,913145437.0
+2023-10-31,Gimnasia acuática,"19:15, 20:10",De 15 a 64 años,45 minutos,Antonio Díaz Miguel,"Calle Joaquín Dicenta, 1, 28029, Madrid",Tetuán,913145437.0
+2023-10-31,Gimnasia suave,17:00,De 15 a 64 años,60 minutos,Antonio Díaz Miguel,"Calle Joaquín Dicenta, 1, 28029, Madrid",Tetuán,913145437.0
+2023-10-31,Gimnasia suave B. Balance,19:00,De 15 a 64 años,60 minutos,Antonio Díaz Miguel,"Calle Joaquín Dicenta, 1, 28029, Madrid",Tetuán,913145437.0
+2023-10-31,Prueba de nivel natación,18:45,A partir de 6 años,5 minutos,Antonio Díaz Miguel,"Calle Joaquín Dicenta, 1, 28029, Madrid",Tetuán,913145437.0
+2023-10-31,Ciclo sala,19:00,De 15 a 64 años,45 minutos,Barajas,"Avenida de Logroño, 70, 28042, Madrid",Barajas,913294219.0
+2023-10-31,Correr por Madrid montañismo,19:30,De 15 a 64 años,90 minutos,Barajas,"Avenida de Logroño, 70, 28042, Madrid",Barajas,913294219.0
+2023-10-31,Entrenamiento en suspensión,18:00,De 15 a 64 años,45 minutos,Barajas,"Avenida de Logroño, 70, 28042, Madrid",Barajas,913294219.0
+2023-10-31,Marcha nórdica por Madrid,19:00,De 15 a 64 años,90 minutos,Barajas,"Avenida de Logroño, 70, 28042, Madrid",Barajas,913294219.0
+2023-10-31,Natación acondicionamiento,19:30,De 17 a 64 años,45 minutos,Barajas,"Avenida de Logroño, 70, 28042, Madrid",Barajas,913294219.0
+2023-10-31,Triatlón por Madrid,"19:30, 20:30",De 15 a 64 años,60 minutos,Barajas,"Avenida de Logroño, 70, 28042, Madrid",Barajas,913294219.0
+2023-10-31,Ciclo sala,"18:15, 20:15",De 15 a 64 años,45 minutos,Blanca Fernández Ochoa,"Calle de Monseñor Óscar Romero, 41, 28025, Madrid",,
+2023-10-31,Circuito fitness,19:15,De 15 a 64 años,60 minutos,Blanca Fernández Ochoa,"Calle de Monseñor Óscar Romero, 41, 28025, Madrid",,
+2023-10-31,Cubo Gym Cross Training/Funcional,"18:15, 19:15",De 15 a 64 años,45 minutos,Blanca Fernández Ochoa,"Calle de Monseñor Óscar Romero, 41, 28025, Madrid",,
+2023-10-31,Cuerpo mente,17:00,De 15 a 64 años,60 minutos,Blanca Fernández Ochoa,"Calle de Monseñor Óscar Romero, 41, 28025, Madrid",,
+2023-10-31,Entrenamiento en suspensión,20:30,De 16 a 64 años,30 minutos,Blanca Fernández Ochoa,"Calle de Monseñor Óscar Romero, 41, 28025, Madrid",,
+2023-10-31,Fitness Acuatico,20:15,De 15 a 64 años,45 minutos,Blanca Fernández Ochoa,"Calle de Monseñor Óscar Romero, 41, 28025, Madrid",,
+2023-10-31,Fuerza en sala multitrabajo,19:00,De 15 a 64 años,60 minutos,Blanca Fernández Ochoa,"Calle de Monseñor Óscar Romero, 41, 28025, Madrid",,
+2023-10-31,Natación acondicionamiento,20:15,De 15 a 64 años,45 minutos,Blanca Fernández Ochoa,"Calle de Monseñor Óscar Romero, 41, 28025, Madrid",,
+2023-10-31,Prueba de nivel natación para CDM Casa de Campo,"17:30, 18:00, 18:30, 19:00, 19:30, 20:30",A partir de 6 años,5 minutos,Casa de Campo,"Paseo Puerta del Ángel, 7, 28011, Madrid",,
+2023-10-31,Natación acondicionamiento,20:15,De 16 a 64 años,45 minutos,Centro Integrado Arganzuela,"Calle de Canarias, 17, 28045, Arganzuela.",,
+2023-10-31,Pilates MesD,21:00,De 16 a 64 años,60 minutos,Centro Integrado Arganzuela,"Calle de Canarias, 17, 28045, Arganzuela.",,
+2023-10-31,Prueba de nivel natación,"20:00, 20:30",,15 minutos,Centro Integrado Arganzuela,"Calle de Canarias, 17, 28045, Arganzuela.",,
+2023-10-31,Aerofitness,20:00,De 15 a 64 años,60 minutos,Cerro Almodóvar,"Calle Cerro Almodóvar, 9, 28007, Madrid",Villa de Vallecas,913314047.0
+2023-10-31,Fitness,19:00,De 15 a 64 años,60 minutos,Cerro Almodóvar,"Calle Cerro Almodóvar, 9, 28007, Madrid",Villa de Vallecas,913314047.0
+2023-10-31,Gimnasia Acuática,19:30,De 15 a 64 años,45 minutos,Cerro Almodóvar,"Calle Cerro Almodóvar, 9, 28007, Madrid",Villa de Vallecas,913314047.0
+2023-10-31,Actividad física y juego (preinfantil): Predanza,16:30,,45 minutos,Ciudad de los Poetas,"Calle de Antonio Machado, 12, 28035, Madrid",,
+2023-10-31,Gimnasia suave,19:30,De 15 a 74 años,60 minutos,Ciudad de los Poetas,"Calle de Antonio Machado, 12, 28035, Madrid",,
+2023-10-31,Pilates,16:30,De 15 a 64 años,60 minutos,Ciudad de los Poetas,"Calle de Antonio Machado, 12, 28035, Madrid",,
+2023-10-31,Yoga,19:30,De 15 a 64 años,60 minutos,Ciudad de los Poetas,"Calle de Antonio Machado, 12, 28035, Madrid",,
+2023-10-31,Aerofitness,20:00,De 15 a 64 años,60 minutos,Concepción,"Calle de José del Hierro, 5, 28027, Madrid",Ciudad Lineal,914039020.0
+2023-10-31,Fitness **,"19:00, 20:00",De 15 a 64 años,60 minutos,Concepción,"Calle de José del Hierro, 5, 28027, Madrid",Ciudad Lineal,914039020.0
+2023-10-31,Yoga,21:00,A partir de 15 años,60 minutos,Concepción,"Calle de José del Hierro, 5, 28027, Madrid",Ciudad Lineal,914039020.0
+2023-10-31,Cubo Gym Cross Training/Funcional,"18:00, 19:00, 20:00, 21:00",De 15 a 64 años,60 minutos,Cubo Gym Las Tablas,"Calle Fromista Esq Calle Castiello de Jaca, 28050, Madrid",Fuencarral-El Pardo,915880432.0
+2023-10-31,Cubo Gym Cross Training/Funcional,"18:00, 19:00, 20:00, 21:00",De 15 a 64 años,45 minutos,Cubo Gym Madrid Río,"Paseo Bajo de la Virgen del Puerto, 28005, Madrid",Centro,915880432.0
+2023-10-31,Cubo Gym Cross Training/Funcional,"18:00, 19:00, 20:00, 21:00",De 15 a 64 años,60 minutos,Cubo Gym Retiro,"Pª de Fernán Núñez, (en ""Capricho Castillete""), 28009, Madrid",Retiro,915880432.0
+2023-10-31,Ciclo sala,"19:00, 20:15",De 15 a 64 años,45 minutos,Daoíz y Velarde,"Plaza de Daoíz y Velarde, 5, 28007, Madrid",,
+2023-10-31,Combinada sala- piscina,21:00,De 15 a 64 años,60 minutos,Daoíz y Velarde,"Plaza de Daoíz y Velarde, 5, 28007, Madrid",,
+2023-10-31,Prueba de nivel de natación,"16:45, 18:00, 18:30, 21:00",A partir de 6 años,5 minutos,Daoíz y Velarde,"Plaza de Daoíz y Velarde, 5, 28007, Madrid",,
+2023-10-31,Fitness,19:30,De 15 a 64 años,60 minutos,El Espinillo,"Carretera de Villaverde a Vallecas, 19, 28041, Madrid",,
+2023-10-31,Natación acondicionamiento,19:00,De 15 a 64 años,30 minutos,El Espinillo,"Carretera de Villaverde a Vallecas, 19, 28041, Madrid",,
+2023-10-31,Prueba de nivel natación,18:15,,15 minutos,El Espinillo,"Carretera de Villaverde a Vallecas, 19, 28041, Madrid",,
+2023-10-31,Baile Infantil,18:00,De 8 a 14 años,60 minutos,El Quijote,"Calle Numancia, 11, 28039, Madrid",Moncloa-Aravaca,914599871.0
+2023-10-31,Cross Training Cubo Gym,17:00,De 15 a 64 años,60 minutos,El Quijote,"Calle Numancia, 11, 28039, Madrid",Moncloa-Aravaca,914599871.0
+2023-10-31,Estiramientos relajación,20:00,De 15 a 64 años,45 minutos,El Quijote,"Calle Numancia, 11, 28039, Madrid",Moncloa-Aravaca,914599871.0
+2023-10-31,Fuerza hipopresivos,18:30,De 15 a 64 años,60 minutos,Entrevías,"Calle del Ronda Sur, 4, 28053, Madrid",,
+2023-10-31,Pilates,19:30,De 15 a 64 años,60 minutos,Entrevías,"Calle del Ronda Sur, 4, 28053, Madrid",,
+2023-10-31,Cubo Gym Cross Training/Funcional,"18:45, 19:30",De 15 a 64 años,45 minutos,Estadio Vallehermoso,"Calle Jesús Maestro c/v. Melquiadas Álvarez, 28003, Madrid",,
+2023-10-31,PILATES,19:30,De 18 a 64 años,60 minutos,Estadio Vallehermoso,"Calle Jesús Maestro c/v. Melquiadas Álvarez, 28003, Madrid",,
+2023-10-31,Gimnasia acuática,19:45,De 15 a 64 años,45 minutos,Faustina Valladolid,"Calle de Ladera de los Almendros, 2, 28032, Madrid",,
+2023-10-31,Marcha nórdica por Madrid,17:00,De 15 a 64 años,90 minutos,Faustina Valladolid,"Calle de Ladera de los Almendros, 2, 28032, Madrid",,
+2023-10-31,Natación acondicionamiento,"19:45, 20:30",De 15 a 64 años,45 minutos,Faustina Valladolid,"Calle de Ladera de los Almendros, 2, 28032, Madrid",,
+2023-10-31,Pilates,17:45,De 15 a 64 años,60 minutos,Faustina Valladolid,"Calle de Ladera de los Almendros, 2, 28032, Madrid",,
+2023-10-31,Pilates,16:30,De 15 a 64 años,60 minutos,Faustina Valladolid,"Calle de Ladera de los Almendros, 2, 28032, Madrid",,
+2023-10-31,Prueba de nivel natación,"19:00, 20:30",,,Faustina Valladolid,"Calle de Ladera de los Almendros, 2, 28032, Madrid",,
+2023-10-31,Tenis acondicionamiento,20:00,De 15 a 64 años,60 minutos,Faustina Valladolid,"Calle de Ladera de los Almendros, 2, 28032, Madrid",,
+2023-10-31,Aerofitness,20:00,De 15 a 64 años,60 minutos,Fernando Martín,"Avenida Santo Ángel de la Guarda, 6, 28039, Madrid",,
+2023-10-31,Circuito fitness,20:15,De 15 a 64 años,45 minutos,Fernando Martín,"Avenida Santo Ángel de la Guarda, 6, 28039, Madrid",,
+2023-10-31,Fitness,19:00,De 15 a 64 años,60 minutos,Fernando Martín,"Avenida Santo Ángel de la Guarda, 6, 28039, Madrid",,
+2023-10-31,Fuerza en sala multitrabajo,18:00,A partir de 16 años,60 minutos,Fernando Martín,"Avenida Santo Ángel de la Guarda, 6, 28039, Madrid",,
+2023-10-31,Pruebas de nivel de natación,19:00,A partir de 6 años,10 minutos,Fernando Martín,"Avenida Santo Ángel de la Guarda, 6, 28039, Madrid",,
+2023-10-31,Ciclo sala,"18:00, 20:00",De 15 a 64 años,60 minutos,Francisco Fernández Ochoa,"Calle Catorce Olivas, s/n, 28054, Madrid",Carabanchel,915883731.0
+2023-10-31,Cubo Gym Cross Training/Funcional,19:00,De 15 a 64 años,45 minutos,Francisco Fernández Ochoa,"Calle Catorce Olivas, s/n, 28054, Madrid",Carabanchel,915883731.0
+2023-10-31,Entrenamiento funcional.,17:00,De 15 a 64 años,60 minutos,Francisco Fernández Ochoa,"Calle Catorce Olivas, s/n, 28054, Madrid",Carabanchel,915883731.0
+2023-10-31,Estiramientos relaj BodyBalance,20:00,De 15 a 64 años,60 minutos,Francisco Fernández Ochoa,"Calle Catorce Olivas, s/n, 28054, Madrid",Carabanchel,915883731.0
+2023-10-31,Fitness BodyCombat,19:00,De 15 a 64 años,60 minutos,Francisco Fernández Ochoa,"Calle Catorce Olivas, s/n, 28054, Madrid",Carabanchel,915883731.0
+2023-10-31,Fitness Cross,"18:00, 20:00",De 15 a 64 años,60 minutos,Francisco Fernández Ochoa,"Calle Catorce Olivas, s/n, 28054, Madrid",Carabanchel,915883731.0
+2023-10-31,Gimnasia acuática,"19:30, 20:15",De 15 a 64 años,45 minutos,Francisco Fernández Ochoa,"Calle Catorce Olivas, s/n, 28054, Madrid",Carabanchel,915883731.0
+2023-10-31,HIIT exprés,18:30,De 15 a 64 años,30 minutos,Francisco Fernández Ochoa,"Calle Catorce Olivas, s/n, 28054, Madrid",Carabanchel,915883731.0
+2023-10-31,Ciclo sala,18:05,De 15 a 64 años,45 minutos,Fuente del Berro,"Calle de Elvira, 36, 28028, Madrid",Salamanca,915881369.0
+2023-10-31,Fuerza GAP MesD,20:00,De 15 a 64 años,60 minutos,Fuente del Berro,"Calle de Elvira, 36, 28028, Madrid",Salamanca,915881369.0
+2023-10-31,Gimnasia acuatica,20:15,De 15 a 64 años,45 minutos,Fuente del Berro,"Calle de Elvira, 36, 28028, Madrid",Salamanca,915881369.0
+2023-10-31,Entrenamiento funcional,19:00,De 15 a 64 años,60 minutos,Gallur,"Calle de Gallur, 2, 28047, Madrid",,
+2023-10-31,Funcional MesD,20:30,De 15 a 64 años,60 minutos,Gimnasio Moscardó,"Calle del Pilar de Zaragoza, 93, 28028, Madrid",,
+2023-10-31,Gimnasia acuática,19:30,De 15 a 64 años,45 minutos,Gimnasio Moscardó,"Calle del Pilar de Zaragoza, 93, 28028, Madrid",,
+2023-10-31,Marcha nórdica por Madrid,19:00,De 15 a 64 años,90 minutos,Gimnasio Moscardó,"Calle del Pilar de Zaragoza, 93, 28028, Madrid",,
+2023-10-31,Natación acondicionamiento,20:15,De 15 a 64 años,45 minutos,Gimnasio Moscardó,"Calle del Pilar de Zaragoza, 93, 28028, Madrid",,
+2023-10-31,Aerofitness,19:00,De 15 a 64 años,60 minutos,Hortaleza,"Carretera Estación de Hortaleza, 11, 28033, Madrid",Hortaleza,913821965.0
+2023-10-31,Ciclo sala,19:10,De 15 a 64 años,45 minutos,Hortaleza,"Carretera Estación de Hortaleza, 11, 28033, Madrid",Hortaleza,913821965.0
+2023-10-31,Fitness,"19:00, 20:00, 21:00",De 15 a 64 años,60 minutos,Hortaleza,"Carretera Estación de Hortaleza, 11, 28033, Madrid",Hortaleza,913821965.0
+2023-10-31,Marcha nórdica por Madrid,19:00,De 15 a 64 años,90 minutos,Hortaleza,"Carretera Estación de Hortaleza, 11, 28033, Madrid",Hortaleza,913821965.0
+2023-10-31,Aerofitness,17:45,De 15 a 64 años,45 minutos,José María Cagigal,"Calle de Santa Pola, 22, 28008, Madrid",,
+2023-10-31,Ciclo sala,"17:15, 19:00",De 15 a 64 años,45 minutos,José María Cagigal,"Calle de Santa Pola, 22, 28008, Madrid",,
+2023-10-31,Ciclo sala,"18:00, 21:15",De 15 a 64 años,45 minutos,Juan de Dios Román,"Calle de José Gutiérrez Maroto, 34, 28051, Madrid",Villa de Vallecas,914801231.0
+2023-10-31,Circuito fitness,19:00,De 15 a 64 años,60 minutos,Juan de Dios Román,"Calle de José Gutiérrez Maroto, 34, 28051, Madrid",Villa de Vallecas,914801231.0
+2023-10-31,Combinada sala,19:00,De 15 a 64 años,60 minutos,Juan de Dios Román,"Calle de José Gutiérrez Maroto, 34, 28051, Madrid",Villa de Vallecas,914801231.0
+2023-10-31,Estiramientos- relajación,20:00,De 15 a 64 años,30 minutos,Juan de Dios Román,"Calle de José Gutiérrez Maroto, 34, 28051, Madrid",Villa de Vallecas,914801231.0
+2023-10-31,Gimnasia acuática,19:30,De 15 a 64 años,45 minutos,Juan de Dios Román,"Calle de José Gutiérrez Maroto, 34, 28051, Madrid",Villa de Vallecas,914801231.0
+2023-10-31,Pilates,"18:00, 20:30",De 15 a 64 años,60 minutos,Juan de Dios Román,"Calle de José Gutiérrez Maroto, 34, 28051, Madrid",Villa de Vallecas,914801231.0
+2023-10-31,Prueba de nivel natación,17:15,A partir de 6 años,5 minutos,Juan de Dios Román,"Calle de José Gutiérrez Maroto, 34, 28051, Madrid",Villa de Vallecas,914801231.0
+2023-10-31,Circuito fitness,21:00,De 15 a 65 años,60 minutos,La Almudena,"Calle de Nicolás Salmerón, 4, 28032, Madrid",Ciudad Lineal,915882355.0
+2023-10-31,Pilates Básico,17:00,De 18 a 65 años,60 minutos,La Almudena,"Calle de Nicolás Salmerón, 4, 28032, Madrid",Ciudad Lineal,915882355.0
+2023-10-31,Pruebas de nivel natación,"16:45, 17:15, 17:45, 18:15, 18:45, 19:30, 20:45",,15 minutos,La Almudena,"Calle de Nicolás Salmerón, 4, 28032, Madrid",Ciudad Lineal,915882355.0
+2023-10-31,Tenis acondicionamiento,19:30,,60 minutos,La Bombilla,"Paseo Senda del Rey, 8, 28040, Madrid",,
+2023-10-31,Yoga,18:00,De 15 a 64 años,50 minutos,La Chopera,"Paseo de Fernán Núñez, 3, 28009, Madrid",,
+2023-10-31,Cubo Gym Crosstraining/Funcional,"17:00, 18:15",,45 minutos,La Elipa,"Calle Alcalde Garrido Juaristi, 17, 28030, Madrid",,
+2023-10-31,Fuerza en sala multitrabajo,"17:00, 18:00, 20:00",A partir de 16 años,60 minutos,La Elipa,"Calle Alcalde Garrido Juaristi, 17, 28030, Madrid",,
+2023-10-31,Tenis acondicionamiento,21:00,De 17 a 64 años,60 minutos,La Elipa,"Calle Alcalde Garrido Juaristi, 17, 28030, Madrid",,
+2023-10-31,Ciclo sala,19:00,De 16 a 64 años,45 minutos,La Fundi,"Calle Alicante, 14, 28045, Arganzuela.",,
+2023-10-31,Entrenamiento en suspensión,18:00,De 16 a 64 años,60 minutos,La Fundi,"Calle Alicante, 14, 28045, Arganzuela.",,
+2023-10-31,Fitness,21:00,De 16 a 64 años,60 minutos,La Fundi,"Calle Alicante, 14, 28045, Arganzuela.",,
+2023-10-31,Pilates MesD,21:00,De 16 a 64 años,60 minutos,La Fundi,"Calle Alicante, 14, 28045, Arganzuela.",,
+2023-10-31,Badminton,"16:15, 20:30",De 15 a 64 años,60 minutos,La Masó,"Calle La Masó, 80, 28034, Madrid",Fuencarral - El Pardo,917397555.0
+2023-10-31,Ciclo sala,"19:30, 20:30",De 15 a 64 años,45 minutos,La Masó,"Calle La Masó, 80, 28034, Madrid",Fuencarral - El Pardo,917397555.0
+2023-10-31,Cubo Gym Cross Training/Funcional,18:30,De 15 a 64 años,45 minutos,La Masó,"Calle La Masó, 80, 28034, Madrid",Fuencarral - El Pardo,917397555.0
+2023-10-31,Fitness,19:30,De 15 a 64 años,60 minutos,La Masó,"Calle La Masó, 80, 28034, Madrid",Fuencarral - El Pardo,917397555.0
+2023-10-31,Fuerza CORE,19:30,De 15 a 64 años,30 minutos,La Masó,"Calle La Masó, 80, 28034, Madrid",Fuencarral - El Pardo,917397555.0
+2023-10-31,Fuerza hipopresivos,19:30,De 15 a 64 años,60 minutos,La Masó,"Calle La Masó, 80, 28034, Madrid",Fuencarral - El Pardo,917397555.0
+2023-10-31,Natación acondicionamiento,"19:30, 20:15",De 15 a 64 años,45 minutos,La Masó,"Calle La Masó, 80, 28034, Madrid",Fuencarral - El Pardo,917397555.0
+2023-10-31,Pilates,20:30,De 15 a 64 años,60 minutos,La Masó,"Calle La Masó, 80, 28034, Madrid",Fuencarral - El Pardo,917397555.0
+2023-10-31,Yoga,18:30,De 15 a 64 años,60 minutos,La Masó,"Calle La Masó, 80, 28034, Madrid",Fuencarral - El Pardo,917397555.0
+2023-10-31,Aerofitness,18:00,De 15 a 64 años,50 minutos,Las Cruces,"Avenida de los Poblados, 72, 28044, Madrid",Latina,915888600.0
+2023-10-31,Baile,20:00,De 15 a 64 años,50 minutos,Las Cruces,"Avenida de los Poblados, 72, 28044, Madrid",Latina,915888600.0
+2023-10-31,Ciclo sala,19:00,De 15 a 64 años,45 minutos,Las Cruces,"Avenida de los Poblados, 72, 28044, Madrid",Latina,915888600.0
+2023-10-31,Cubo Gym Cross Training/Funcional,"18:00, 20:00",De 15 a 64 años,45 minutos,Las Cruces,"Avenida de los Poblados, 72, 28044, Madrid",Latina,915888600.0
+2023-10-31,Fitness Acuatico,19:30,De 15 a 64 años,45 minutos,Las Cruces,"Avenida de los Poblados, 72, 28044, Madrid",Latina,915888600.0
+2023-10-31,Gimnasia suave,18:00,De 15 a 64 años,50 minutos,Las Cruces,"Avenida de los Poblados, 72, 28044, Madrid",Latina,915888600.0
+2023-10-31,Padel acondicionamiento / Nivel alto,21:15,De 15 a 64 años,60 minutos,Las Cruces,"Avenida de los Poblados, 72, 28044, Madrid",Latina,915888600.0
+2023-10-31,Pilates,20:00,De 15 a 64 años,50 minutos,Las Cruces,"Avenida de los Poblados, 72, 28044, Madrid",Latina,915888600.0
+2023-10-31,Tenis acondicionamiento/ Nivel alto,21:15,De 15 a 64 años,60 minutos,Las Cruces,"Avenida de los Poblados, 72, 28044, Madrid",Latina,915888600.0
+2023-10-31,Tonificación,19:00,De 15 a 64 años,50 minutos,Las Cruces,"Avenida de los Poblados, 72, 28044, Madrid",Latina,915888600.0
+2023-10-31,Ciclo Sala,18:45,De 15 a 64 años,45 minutos,Luis Aragonés,"Calle de El Provencio, 20, 28043, Madrid",,
+2023-10-31,Fitness,20:15,De 15 a 64 años,60 minutos,Luis Aragonés,"Calle de El Provencio, 20, 28043, Madrid",,
+2023-10-31,Fuerza GAP MsD,18:15,De 15 a 64 años,60 minutos,Luis Aragonés,"Calle de El Provencio, 20, 28043, Madrid",,
+2023-10-31,Marcha nórdica por Madrid,16:00,De 15 a 64 años,90 minutos,Luis Aragonés,"Calle de El Provencio, 20, 28043, Madrid",,
+2023-10-31,Padel acondicionamiento,21:00,De 15 a 64 años,60 minutos,Luis Aragonés,"Calle de El Provencio, 20, 28043, Madrid",,
+2023-10-31,Circuito Fitness,20:15,De 15 a 64 años,45 minutos,Margot Moles,"Paseo Polideportivo, 3, 28032, Madrid",,
+2023-10-31,Correr por Madrid,20:00,De 15 a 64 años,90 minutos,Margot Moles,"Paseo Polideportivo, 3, 28032, Madrid",,
+2023-10-31,Cubo Gym Cross Training/ funcional,19:30,De 15 a 64 años,45 minutos,Margot Moles,"Paseo Polideportivo, 3, 28032, Madrid",,
+2023-10-31,Gimnasia acuática,20:15,De 15 a 64 años,45 minutos,Margot Moles,"Paseo Polideportivo, 3, 28032, Madrid",,
+2023-10-31,Natación acondicionamiento,"16:45, 20:15",De 15 a 64 años,45 minutos,Margot Moles,"Paseo Polideportivo, 3, 28032, Madrid",,
+2023-10-31,Pilates,19:00,De 15 a 64 años,60 minutos,Margot Moles,"Paseo Polideportivo, 3, 28032, Madrid",,
+2023-10-31,Natación acondicionamiento 2,19:45,De 15 a 64 años,45 minutos,María Jesús Rosa,"Avenida de Monforte de Lemos, 38 A, 28029, Madrid",,
+2023-10-31,Natación acondicionamiento 2 EXPRESS,20:30,De 15 a 64 años,30 minutos,María Jesús Rosa,"Avenida de Monforte de Lemos, 38 A, 28029, Madrid",,
+2023-10-31,Ciclo sala,"20:00, 21:00",De 15 a 64 años,45 minutos,Marqués de Samaranch,"Paseo Imperial, 18, 28005, Madrid",,
+2023-10-31,Cubo Gym Cross Training/Funcional.,"18:00, 19:00, 20:15, 21:00",De 15 a 64 años,45 minutos,Marqués de Samaranch,"Paseo Imperial, 18, 28005, Madrid",,
+2023-10-31,Estiramientos relajación express,21:00,De 16 a 64 años,30 minutos,Marqués de Samaranch,"Paseo Imperial, 18, 28005, Madrid",,
+2023-10-31,Fitness acuático,19:00,De 15 a 64 años,45 minutos,Marqués de Samaranch,"Paseo Imperial, 18, 28005, Madrid",,
+2023-10-31,Gimnasia acuática,20:15,De 16 a 64 años,45 minutos,Marqués de Samaranch,"Paseo Imperial, 18, 28005, Madrid",,
+2023-10-31,Aerofitness,20:00,De 15 a 64 años,60 minutos,Moratalaz,"Calle Valdebernardo, 2, 28030, Madrid",,
+2023-10-31,Ciclo sala,19:15,De 15 a 64 años,45 minutos,Moratalaz,"Calle Valdebernardo, 2, 28030, Madrid",,
+2023-10-31,Circuito fitness,20:00,De 15 a 64 años,60 minutos,Moratalaz,"Calle Valdebernardo, 2, 28030, Madrid",,
+2023-10-31,Combinada sala,19:30,De 15 a 64 años,60 minutos,Moratalaz,"Calle Valdebernardo, 2, 28030, Madrid",,
+2023-10-31,Cubo Gym Cross Training/Funcional,"18:15, 19:00, 20:15",De 15 a 64 años,45 minutos,Moratalaz,"Calle Valdebernardo, 2, 28030, Madrid",,
+2023-10-31,Entrenamiento en suspensión,17:00,De 15 a 64 años,60 minutos,Moratalaz,"Calle Valdebernardo, 2, 28030, Madrid",,
+2023-10-31,Fitness,19:00,De 15 a 64 años,60 minutos,Moratalaz,"Calle Valdebernardo, 2, 28030, Madrid",,
+2023-10-31,Fuerza general,18:00,De 15 a 64 años,60 minutos,Moratalaz,"Calle Valdebernardo, 2, 28030, Madrid",,
+2023-10-31,Correr por Madrid,18:30,De 15 a 64 años,90 minutos,Orcasitas,"Avenida de Rafaela Ybarra, 52, 28026, Madrid",,
+2023-10-31,Cubo Gym Cross Training/ Funcional,"17:15, 18:00",De 15 a 64 años,45 minutos,Orcasitas,"Avenida de Rafaela Ybarra, 52, 28026, Madrid",,
+2023-10-31,Entrenamiento funcional,20:00,De 15 a 64 años,60 minutos,Orcasitas,"Avenida de Rafaela Ybarra, 52, 28026, Madrid",,
+2023-10-31,Gimnasia acuática,"19:15, 20:15",De 15 a 64 años,45 minutos,Orcasitas,"Avenida de Rafaela Ybarra, 52, 28026, Madrid",,
+2023-10-31,Natación acondicionamiento,20:15,De 15 a 64 años,45 minutos,Orcasitas,"Avenida de Rafaela Ybarra, 52, 28026, Madrid",,
+2023-10-31,Pádel acondicionamiento,19:00,De 15 a 64 años,60 minutos,Orcasitas,"Avenida de Rafaela Ybarra, 52, 28026, Madrid",,
+2023-10-31,Natación acondicionamiento,20:15,De 15 a 64 años,45 minutos,Orcasur,"Calle de Moreja, 11, 28041, Madrid",,
+2023-10-31,Fitness acuático MeD,18:30,De 16 a 65 años,45 minutos,Palomeras,"Calle del Tranvía de Arganda, 4, 28031, Madrid",,
+2023-10-31,Fuerza CORE,19:30,De 16 a 64 años,30 minutos,Palomeras,"Calle del Tranvía de Arganda, 4, 28031, Madrid",,
+2023-10-31,Natación acondicionamiento,20:15,De 18 a 64 años,45 minutos,Palomeras,"Calle del Tranvía de Arganda, 4, 28031, Madrid",,
+2023-10-31,Pádel acondicionamiento,20:00,De 18 a 60 años,60 minutos,Palomeras,"Calle del Tranvía de Arganda, 4, 28031, Madrid",,
+2023-10-31,Cubo Gym Cross Training,17:15,De 15 a 64 años,45 minutos,Plata y Castañar,"Paseo de Plata y Castañar, 7, 28021, Madrid",,
+2023-10-31,Fuerza GAP Express,17:30,De 15 a 64 años,30 minutos,Plata y Castañar,"Paseo de Plata y Castañar, 7, 28021, Madrid",,
+2023-10-31,Yoga,18:30,De 15 a 64 años,60 minutos,Plata y Castañar,"Paseo de Plata y Castañar, 7, 28021, Madrid",,
+2023-10-31,Cubo Gym Crosstraining / Funcional,17:15,De 15 a 64 años,45 minutos,Playa Victoria,"Calle de la Hierbabuena, 2, 28039, Madrid",,
+2023-10-31,Estiramientos relajación,"17:30, 19:00",A partir de 16 años,30 minutos,Playa Victoria,"Calle de la Hierbabuena, 2, 28039, Madrid",,
+2023-10-31,Fuerza GAP,17:00,De 15 a 64 años,60 minutos,Playa Victoria,"Calle de la Hierbabuena, 2, 28039, Madrid",,
+2023-10-31,Karate acondicionamiento,20:15,A partir de 14 años,60 minutos,Playa Victoria,"Calle de la Hierbabuena, 2, 28039, Madrid",,
+2023-10-31,Pádel acondicionamiento,17:00,De 15 a 64 años,60 minutos,Playa Victoria,"Calle de la Hierbabuena, 2, 28039, Madrid",,
+2023-10-31,Pilates,18:00,De 15 a 65 años,60 minutos,Playa Victoria,"Calle de la Hierbabuena, 2, 28039, Madrid",,
+2023-10-31,Ciclo sala,20:00,De 15 a 64 años,45 minutos,Pradillo,"Calle de Pradillo 33, 28002, Madrid",,
+2023-10-31,Fitness,"19:00, 20:00, 21:00",De 15 a 64 años,60 minutos,Pradillo,"Calle de Pradillo 33, 28002, Madrid",,
+2023-10-31,Pilates,19:00,De 15 a 64 años,60 minutos,Pradillo,"Calle de Pradillo 33, 28002, Madrid",,
+2023-10-31,Fitness,20:00,De 15 a 64 años,60 minutos,Pueblo Nuevo,"Calle Francisco Rioja, 14, 28017, Madrid",,
+2023-10-31,Fuerza GAP,18:00,De 15 a 64 años,60 minutos,Pueblo Nuevo,"Calle Francisco Rioja, 14, 28017, Madrid",,
+2023-10-31,Ciclo sala,20:00,De 15 a 64 años,45 minutos,Raúl González,"Calle de Benimamet, 137, 28021, Madrid",,
+2023-10-31,Entrenamiento por intervalos,21:00,De 15 a 64 años,,Raúl González,"Calle de Benimamet, 137, 28021, Madrid",,
+2023-10-31,Fuerza GAP,20:00,De 15 a 64 años,30 minutos,Raúl González,"Calle de Benimamet, 137, 28021, Madrid",,
+2023-10-31,Natación acondicionamiento,20:00,De 15 a 64 años,45 minutos,Raúl González,"Calle de Benimamet, 137, 28021, Madrid",,
+2023-10-31,Cubo Gym Cross Training / Funcional,"18:15, 19:00",De 15 a 64 años,45 minutos,San Blas,"Avenida Hellín, 47, 28037, Madrid",,
+2023-10-31,Natación acondicionamiento,19:00,De 15 a 64 años,45 minutos,San Blas,"Avenida Hellín, 47, 28037, Madrid",,
+2023-10-31,Pilates,19:15,De 15 a 64 años,60 minutos,San Blas,"Avenida Hellín, 47, 28037, Madrid",,
+2023-10-31,ESTIRAMIENTOS Y RELAJACIÓN,18:30,De 15 a 64 años,30 minutos,San Cristóbal,"Plaza Pinazo, 9, 28021, Madrid",Villaverde,917950911.0
+2023-10-31,FUERZA GAP,18:00,De 15 a 64 años,60 minutos,San Cristóbal,"Plaza Pinazo, 9, 28021, Madrid",Villaverde,917950911.0
+2023-10-31,FUERZA GENERAL,19:45,De 15 a 64 años,60 minutos,San Cristóbal,"Plaza Pinazo, 9, 28021, Madrid",Villaverde,917950911.0
+2023-10-31,Combinada Sala Piscina,20:00,De 15 a 64 años,45 minutos,San Juan Bautista,"Calle de Treviana, 1 B, 28043, Madrid",,
+2023-10-31,Entrenamiento funcionalMesD,18:00,De 15 a 64 años,45 minutos,San Juan Bautista,"Calle de Treviana, 1 B, 28043, Madrid",,
+2023-10-31,Entrenamiento por intervalos,18:45,De 15 a 64 años,60 minutos,San Juan Bautista,"Calle de Treviana, 1 B, 28043, Madrid",,
+2023-10-31,Fitness Acuático,19:00,De 15 a 64 años,45 minutos,San Juan Bautista,"Calle de Treviana, 1 B, 28043, Madrid",,
+2023-10-31,Fuerza en sala multitrabajo,19:45,De 15 a 64 años,60 minutos,San Juan Bautista,"Calle de Treviana, 1 B, 28043, Madrid",,
+2023-10-31,Natación acondicionamiento,"19:00, 20:00",De 15 a 64 años,45 minutos,San Juan Bautista,"Calle de Treviana, 1 B, 28043, Madrid",,
+2023-10-31,Natación acondicionamiento,"19:00, 20:00",De 15 a 64 años,45 minutos,San Juan Bautista,"Calle de Treviana, 1 B, 28043, Madrid",,
+2023-10-31,Fitness,17:30,De 15 a 64 años,60 minutos,Torrespaña,"Calle del Alcalde Sáinz de Baranda, 94, 28007, Madrid",,
+2023-10-31,Fuerza GAP MesD,18:30,De 15 a 64 años,60 minutos,Torrespaña,"Calle del Alcalde Sáinz de Baranda, 94, 28007, Madrid",,
+2023-10-31,Pilates MesD,19:45,De 15 a 64 años,60 minutos,Torrespaña,"Calle del Alcalde Sáinz de Baranda, 94, 28007, Madrid",,
+2023-10-31,Ciclo sala,20:00,De 16 a 64 años,45 minutos,Triángulo de Oro,"Calle de Bravo Murillo, 376, 28020, Madrid",,
+2023-10-31,Cross Training,18:00,De 16 a 64 años,60 minutos,Triángulo de Oro,"Calle de Bravo Murillo, 376, 28020, Madrid",,
+2023-10-31,Estiramientos relajación,19:30,,30 minutos,Triángulo de Oro,"Calle de Bravo Murillo, 376, 28020, Madrid",,
+2023-10-31,Fitnes Acuático,20:00,De 16 a 64 años,45 minutos,Triángulo de Oro,"Calle de Bravo Murillo, 376, 28020, Madrid",,
+2023-10-31,Fuerza CORE,19:00,De 16 a 64 años,30 minutos,Triángulo de Oro,"Calle de Bravo Murillo, 376, 28020, Madrid",,
+2023-10-31,Karate acondicionamiento,19:00,De 16 a 64 años,60 minutos,Triángulo de Oro,"Calle de Bravo Murillo, 376, 28020, Madrid",,
+2023-10-31,Natación acondicionamiento,19:15,De 16 a 64 años,45 minutos,Triángulo de Oro,"Calle de Bravo Murillo, 376, 28020, Madrid",,
+2023-10-31,Pilates,"17:00, 20:00",De 16 a 64 años,60 minutos,Triángulo de Oro,"Calle de Bravo Murillo, 376, 28020, Madrid",,
+2023-10-31,Prueba de nivel de natación,"17:15, 17:30, 18:15, 20:30, 20:45",A partir de 6 años,10 minutos,Triángulo de Oro,"Calle de Bravo Murillo, 376, 28020, Madrid",,
+2023-10-31,Fitness,20:00,De 17 a 64 años,60 minutos,Vicente del Bosque,"Avenida de Monforte de Lemos, 13, 28029, Madrid",,
+2023-10-31,Ciclo sala,20:15,A partir de 15 años,45 minutos,Wilfred Agbonavbare,"Calle Reguera de Tomateros, 39 B, 28053, Madrid",,
+2023-10-31,Cubo Gym Cross Training/Funcional*,19:15,De 15 a 64 años,45 minutos,Wilfred Agbonavbare,"Calle Reguera de Tomateros, 39 B, 28053, Madrid",,
+2023-10-31,Entrenamiento en suspensión,17:30,A partir de 15 años,30 minutos,Wilfred Agbonavbare,"Calle Reguera de Tomateros, 39 B, 28053, Madrid",,
+2023-10-31,Fitness,21:00,A partir de 15 años,60 minutos,Wilfred Agbonavbare,"Calle Reguera de Tomateros, 39 B, 28053, Madrid",,
+2023-10-31,Gimnasia acuática,"20:15, 21:15",De 15 a 64 años,,Wilfred Agbonavbare,"Calle Reguera de Tomateros, 39 B, 28053, Madrid",,
+2023-10-31,Pilates acuático,19:15,A partir de 15 años,,Wilfred Agbonavbare,"Calle Reguera de Tomateros, 39 B, 28053, Madrid",,
+2023-10-31,Pilates MesD,19:00,A partir de 15 años,60 minutos,Wilfred Agbonavbare,"Calle Reguera de Tomateros, 39 B, 28053, Madrid",,
+2023-10-31,Yoga,20:00,A partir de 15 años,,Wilfred Agbonavbare,"Calle Reguera de Tomateros, 39 B, 28053, Madrid",,
