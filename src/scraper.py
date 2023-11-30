@@ -129,7 +129,7 @@ df = pd.merge(df, contacto, on='Centro', how='left')
 
 # Guardar una copia en local
 
-df.to_csv(f'data/{date.today().strftime("%d-%m-%Y")}.csv', index=False)
+df.to_csv(f'data/{date.today().strftime("%y%m%d")}.csv', index=False)
 
 # Subida a la base de datos en Big Query
 
